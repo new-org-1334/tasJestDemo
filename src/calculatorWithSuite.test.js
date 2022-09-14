@@ -38,6 +38,7 @@ describe('Test Language code_Expanded name to check for test suite_expand', func
        const number = Math.floor(Math.random() * 10);
        const result = 11 % 2;
        expect(result).toBe(1);
+       expect(result).toBe(1);
     });
 });
 
