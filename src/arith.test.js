@@ -34,7 +34,6 @@ test('10 % 8 = 0', () => {
 
 test('new 10 % 8 = 0', () => {
   expect(modu(10, 8)).toBe(2);
+  expect(modu(10, 8)).toBe(2);
 });
-
-
 
